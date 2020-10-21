@@ -35,5 +35,5 @@ int main()
         cin>>a[i];
     sort(a,a+t);
     for(i=0;i<t;i++)
-        cout<<a[i]<<"\n";
+        cout<<a[i]<<endl;
 }
